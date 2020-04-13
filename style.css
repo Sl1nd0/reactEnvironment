@@ -1,0 +1,77 @@
+#div {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#head {
+    font-size: 80px;    
+}
+
+#break-length {
+    font-size: 30px;  
+}
+
+#session-length{
+    font-size: 30px;  
+}
+
+#break-label {
+    font-size: 30px;
+}
+
+#session-label {
+    font-size: 30px;  
+}
+
+#link {
+    color: #1C2833;
+}
+
+#time-left {
+    font-size: 60px; 
+}
+
+#start_stop {
+    color: #1C2833;
+}
+
+#reset {
+    color: #1C2833;
+}
+
+#pause {
+    color: #1C2833;
+}
+
+#session {
+    font-size: 80px; 
+}
+
+#body {
+    background-color: #C0392B;
+}
+
+.button {
+    font-size: 40px;  
+}
+#g {
+    size: 1000px;
+}
+#session {
+    margin-top: 3%;
+    border-radius: 20px;
+    border: 7px solid #283747 ;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+    width: 30%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#timer-label {
+    text-align: center;
+    font-size: 40px;
+}
